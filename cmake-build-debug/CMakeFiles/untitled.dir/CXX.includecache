@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/saadany/Downloads/8bit-Snake-master/LoaderManager.cpp
+GL/glut.h
+-
+LoaderManager.h
+/home/saadany/Downloads/8bit-Snake-master/LoaderManager.h
+ctime
+-
+iostream
+-
+chrono
+-
+
+/home/saadany/Downloads/8bit-Snake-master/LoaderManager.h
+GL/glut.h
+-
+
+/home/saadany/Downloads/8bit-Snake-master/main.cpp
+GL/glut.h
+-
+iostream
+-
+LoaderManager.h
+/home/saadany/Downloads/8bit-Snake-master/LoaderManager.h
+chrono
+-
+string
+-
+cstring
+-
+iomanip
+-
+thread
+-
+
